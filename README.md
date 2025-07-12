@@ -11,3 +11,4 @@ Projet fictif pour une PME de 50 employés sur 3 sites. Objectif : concevoir une
 
 ## Technologies utilisées
 - VLAN, VPN IPSec & SSL, pfSense, VMware, Nagios, OSPF, Active Directory
+![image alt](https://github.com/thooo-afk/architecture-reseau-pme/blob/main/schema.png?raw=true)
