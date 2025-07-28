@@ -3,7 +3,7 @@
 ## Contexte
 Ce projet représente la conception d’une architecture réseau sécurisée pour une PME fictive de 50 employés répartis sur 3 sites géographiques. L’objectif est de proposer un réseau moderne, résilient, et adapté au télétravail, intégrant des solutions de sécurité essentielles comme VPN, pare-feu, segmentation des flux et supervision centralisée.
 
-L’architecture prend en compte les besoins métiers et techniques de la PME, notamment :
+#L’architecture prend en compte les besoins métiers et techniques de la PME, notamment :
 
 Sécurisation des accès distants via VPN SSL.
 
@@ -15,18 +15,20 @@ Redondance et haute disponibilité des liens critiques.
 
 Supervision centralisée pour le suivi des performances et des incidents.
 
-Structure et contenu du projet
-Schéma et description de l’architecture réseau (topologie, types de matériel, segmentation).
+#Structure et contenu du projet
 
-Configuration des équipements (routeurs, points d’accès Wi-Fi, pare-feu).
+-Schéma et description de l’architecture réseau (topologie, types de matériel, segmentation).
 
-Gestion des accès distants pour le télétravail.
+-Configuration des équipements (routeurs, points d’accès Wi-Fi, pare-feu).
 
-Politique de sécurité réseau : filtrage, VPN, segmentation.
+-Gestion des accès distants pour le télétravail.
 
-Supervision et gestion des logs.
+-Politique de sécurité réseau : filtrage, VPN, segmentation.
 
-Analyse de risque EBIOS RM adaptée au projet
+-Supervision et gestion des logs.
+
+#Analyse de risque EBIOS RM adaptée au projet
+
 L’analyse de risque EBIOS RM (Expression des Besoins et Identification des Objectifs de Sécurité – Risk Manager) permet d’identifier, de qualifier et de réduire les risques liés à l’architecture réseau mise en place.
 
 1. Contexte et périmètre
